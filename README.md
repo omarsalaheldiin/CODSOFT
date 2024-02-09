@@ -1,3 +1,3 @@
 # CODSOFT
 
-In this repo, I will upload the projects that i worked on during my internship in CODSOFT
+In this repo, I will upload projects I worked on during my internship at CODSOFT
